@@ -1,0 +1,9 @@
+2022/06/09 21:06:16 [error] 8656#4220: *1 CreateFile() "C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\nginx-1.21.6/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/06/09 21:13:15 [notice] 9452#3712: signal process started
+2022/06/09 21:14:11 [notice] 5904#2060: signal process started
+2022/06/09 21:15:52 [notice] 16896#16988: signal process started
+2022/06/09 21:16:01 [error] 1328#15636: *5 CreateFile() "C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\nginx-1.21.6/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2022/06/09 21:41:13 [notice] 16280#13508: signal process started
+2022/06/10 00:33:44 [notice] 8220#17924: signal process started
+2022/06/10 00:33:46 [notice] 19220#15156: signal process started
+2022/06/10 00:33:46 [error] 19220#15156: CreateFile() "C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\nginx-1.21.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
